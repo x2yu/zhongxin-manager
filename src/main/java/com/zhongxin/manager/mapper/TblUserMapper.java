@@ -2,6 +2,7 @@ package com.zhongxin.manager.mapper;
 
 import com.zhongxin.manager.entity.TblUser;
 import com.baomidou.mybatisplus.core.mapper.BaseMapper;
+import org.apache.ibatis.annotations.Mapper;
 
 /**
  * <p>

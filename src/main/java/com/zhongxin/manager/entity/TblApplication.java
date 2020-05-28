@@ -49,10 +49,6 @@ public class TblApplication implements Serializable {
      */
     private Integer docId;
 
-    /**
-     * 开发者id
-     */
-    private Integer managerId;
 
     /**
      * 应用版本号
